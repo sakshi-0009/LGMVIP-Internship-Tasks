@@ -26,7 +26,7 @@ If a player has won the game, the program should display a message indicating th
 
 Overall, a tic tac toe game in Java involves creating a user interface, implementing the game logic, and handling user input. It requires knowledge of Java programming, GUI frameworks, and game development.
 
-__Task 3 : Scintific Calculator in java__
+__Task 3 : Scientific Calculator in java__
 
 __Description :__
 
